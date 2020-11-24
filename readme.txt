@@ -1,1 +1,0 @@
-Checking branch and git add on it
