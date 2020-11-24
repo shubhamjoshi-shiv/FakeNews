@@ -1,7 +1,7 @@
 import tkinter as tk
 root=tk.Tk()
 
-##################################
+###################################
 main=tk.Frame(root,bg="#e0ffff")
 ##################################
 header_frame=tk.Frame(main,bg="#e0ffff")
