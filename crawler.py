@@ -49,8 +49,7 @@ def search_domain(domain):
     return record_list
 
 #
-# Downloads a page from Common Crawl - adapted graciously from @Smerity - thanks man!
-# https://gist.github.com/Smerity/56bc6f21a8adec920ebf
+# Downloads a page from Common Crawl
 #
 def download_page(record):
 
