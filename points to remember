@@ -1,0 +1,11 @@
+    to create virtual environment
+        use the cmnd 
+            py -m venv env
+    to use it ...
+        .\env\Scripts\activate    
+
+    to install all the req from requirement.txt
+        pip install -r requirements.txt
+    
+    to create requirements.txt
+        pip freeze > requirements.txt.
