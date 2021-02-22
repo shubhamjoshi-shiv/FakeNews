@@ -1,0 +1,20 @@
+    to create virtual environment
+        use the cmnd 
+            py -m venv env
+    to use it ...
+        .\env\Scripts\activate    
+
+    to install all the req from requirement.txt
+        pip install -r requirements.txt
+    
+    to create requirements.txt
+        pip freeze > requirements.txt.
+
+    creating a symbolic link (more than just a shortcut)
+        mklink /D d_Drive d:\
+        For windows user there is another solution. You can create a symbolic link at directory that Jupyter starts working.
+        from command prompt: ( mklink /D [the name of the link] [target directory]
+        mklink /D G_Drive G:\DsN20 
+
+merge conflict- jab last commit same file ka local aur remote repo. mai different ho
+
