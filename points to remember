@@ -16,3 +16,5 @@
         from command prompt: ( mklink /D [the name of the link] [target directory]
         mklink /D G_Drive G:\DsN20 
 
+merge conflict- jab last commit same file ka local aur remote repo. mai different ho
+
